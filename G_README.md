@@ -13,7 +13,7 @@ A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
 
 ### PHP extension w/ parameters
 
-> site:example.com ext:php inurl:.php
+> site:example.com intext:"php" inurl:".php?id=" OR inurl:".php?param=" OR inurl:".php?file=" OR inurl:".php?query=" OR inurl:".php?category=" OR inurl:".php?search=" OR inurl:".php?keyword=" OR inurl:".php?name=" OR inurl:".php?var=" OR inurl:".php?value=" OR inurl:".php?type=" OR inurl:".php?code=" OR inurl:".php?item=" OR inurl:".php?section=" OR inurl:".php?option=" OR inurl:".php?view=" OR inurl:".php?data=" OR inurl:".php?content=" OR inurl:".php?lang=" OR inurl:".php?config=" OR inurl:".php?template=" OR inurl:".php?ref=" OR inurl:".php?target=" OR inurl:".php?url=" OR inurl:".php?redirect=" OR inurl:".php?return=" OR inurl:".php?link=" OR inurl:".php?site=" OR inurl:".php?url=" OR inurl:".php?go=" OR inurl:".php?out=" OR inurl:".php?view=" OR inurl:".php?dir=" OR inurl:".php?pg=" OR inurl:".php?req=" OR inurl:".php?document=" OR inurl:".php?func=" OR inurl:".php?cmd=" OR inurl:".php?action=" OR inurl:".php?func=" OR inurl:".php?load=" OR inurl:".php?exec=" OR inurl:".php?execute=" OR inurl:".php?query=" OR inurl:".php?process=" OR inurl:".php?do=" OR inurl:".php?func=" OR inurl:".php?read=" OR inurl:".php?include=" OR inurl:".php?config=" OR inurl:".php?load=" OR inurl:".php?execute="
 
 ### Disclosed XSS and Open Redirects
 
